@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harley S. Gotardo</h1>
 <h3 align="center">A Try Hard Computer Science Student</h3>
 
-- 🔭 I’m currently working on [Cash Compass Web Application](https://harleygotardo.github.io/)
-
 - 🌱 I’m currently learning **Computer Science Topics**
 
 <h3 align="left">Connect with me:</h3>
